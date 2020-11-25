@@ -41,7 +41,7 @@ var questions = [
 			) +
 			chalk.bold.yellowBright('a: scratoncity\n') +
 			chalk.bold.yellowBright('b: paperlist\n') +
-			chalk.bold.yellowBright('c: thunder miffilin\n') +
+			chalk.bold.yellowBright('c: dunder miffilin\n') +
 			chalk.bold.yellowBright('d: paper co.\n'),
 		answer: 'c'
 	},
